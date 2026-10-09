@@ -1,0 +1,44 @@
+{
+  "repository": "https://github.com/nltk/nltk_data",
+  "commit": "550b6625bcef1f2abff2ff770a5a0d272c9c6b2a",
+  "storage": ".cache/nltk_data",
+  "notes": "Corpora and models retain their own licenses/readme files in the downloaded archives. Movie Reviews: sentiment; Reuters: news; Brown: genres. Resources are not redistributed in this repo.",
+  "packages": [
+    {
+      "name": "movie_reviews",
+      "path": "corpora/movie_reviews.zip",
+      "url": "https://raw.githubusercontent.com/nltk/nltk_data/550b6625bcef1f2abff2ff770a5a0d272c9c6b2a/packages/corpora/movie_reviews.zip",
+      "sha256": "a41211ae685019137410268134db6a1a14428c89b671eb83056151a878539008"
+    },
+    {
+      "name": "reuters",
+      "path": "corpora/reuters.zip",
+      "url": "https://raw.githubusercontent.com/nltk/nltk_data/550b6625bcef1f2abff2ff770a5a0d272c9c6b2a/packages/corpora/reuters.zip",
+      "sha256": "9a59a43823f02a6e2777075c989a3dc454e4b6f68e0332ee3c0e8264075b62f5"
+    },
+    {
+      "name": "brown",
+      "path": "corpora/brown.zip",
+      "url": "https://raw.githubusercontent.com/nltk/nltk_data/550b6625bcef1f2abff2ff770a5a0d272c9c6b2a/packages/corpora/brown.zip",
+      "sha256": "9b275f9b3b95d7bd66ccfb7cd259f445a13bbe5d1f4107aba09fd3e8364bafa6"
+    },
+    {
+      "name": "stopwords",
+      "path": "corpora/stopwords.zip",
+      "url": "https://raw.githubusercontent.com/nltk/nltk_data/550b6625bcef1f2abff2ff770a5a0d272c9c6b2a/packages/corpora/stopwords.zip",
+      "sha256": "48c0e52d8b52546e827f53761fb30300c0ab94f70660d28bd65ba0a86270946b"
+    },
+    {
+      "name": "punkt_tab",
+      "path": "tokenizers/punkt_tab.zip",
+      "url": "https://raw.githubusercontent.com/nltk/nltk_data/550b6625bcef1f2abff2ff770a5a0d272c9c6b2a/packages/tokenizers/punkt_tab.zip",
+      "sha256": "e57f64187974277726a3417ca6f181ec5403676c717672eef6a748a7b20e0106"
+    },
+    {
+      "name": "averaged_perceptron_tagger_eng",
+      "path": "taggers/averaged_perceptron_tagger_eng.zip",
+      "url": "https://raw.githubusercontent.com/nltk/nltk_data/550b6625bcef1f2abff2ff770a5a0d272c9c6b2a/packages/taggers/averaged_perceptron_tagger_eng.zip",
+      "sha256": "6025f530624335c67d6547d44757b357b4e79bae030a0383e9887a92c1718f0b"
+    }
+  ]
+}

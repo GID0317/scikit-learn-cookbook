@@ -1,4 +1,4 @@
-# Cakupan Materi Chapter 1–8
+# Cakupan Materi Chapter 1–13
 
 Pemetaan materi buku **scikit-learn Cookbook, Third Edition** (John Sukup, Packt, 2025) ke pembahasan notebook. Halaman mengacu pada nomor cetak buku. Baris mengelompokkan konsep yang dijelaskan bersama; jumlah baris bukan jumlah seluruh subjudul buku. Subjudul prosedural seperti Getting ready dan How it works dibahas dalam recipe terkait. Contoh tambahan dinyatakan dalam notebook.
 
@@ -117,8 +117,72 @@ Pemetaan materi buku **scikit-learn Cookbook, Third Edition** (John Sukup, Packt
 | Exercise 2: Hyperparameter tuning with random forests | 211 | [Practical Exercises with Tree-Based Models](../notebooks/chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb#practical-exercises-with-tree-based-models) |
 | Exercise 3: Comparing gradient boosting and random forest | 212 | [Practical Exercises with Tree-Based Models](../notebooks/chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb#practical-exercises-with-tree-based-models) |
 
+## Chapter 9: Text Processing and Multiclass Classification
+
+| Materi buku | Halaman cetak | Pembahasan notebook |
+| --- | --- | --- |
+| Introduction to Text Processing | 214 | [Introduction to Text Processing](../notebooks/chapter_09_text_processing_and_multiclass_classification.ipynb#introduction-to-text-processing) |
+| Text Vectorization Techniques | 218 | [Text Vectorization Techniques](../notebooks/chapter_09_text_processing_and_multiclass_classification.ipynb#text-vectorization-techniques) |
+| Feature Extraction from Text | 223 | [Feature Extraction from Text](../notebooks/chapter_09_text_processing_and_multiclass_classification.ipynb#feature-extraction-from-text) |
+| Implementing Text Classification Models | 231 | [Implementing Text Classification Models](../notebooks/chapter_09_text_processing_and_multiclass_classification.ipynb#implementing-text-classification-models) |
+| Multiclass Classification Strategies | 240 | [Multiclass Classification Strategies](../notebooks/chapter_09_text_processing_and_multiclass_classification.ipynb#multiclass-classification-strategies) |
+| Evaluating Text Models | 245 | [Evaluating Text Models](../notebooks/chapter_09_text_processing_and_multiclass_classification.ipynb#evaluating-text-models) |
+| Practical Exercises in Text Processing | 249 | [Practical Exercises in Text Processing](../notebooks/chapter_09_text_processing_and_multiclass_classification.ipynb#practical-exercises-in-text-processing) |
+| Exercise 3: Building and Evaluating a Multiclass Classifier | 250 | [Exercise 3: Building and Evaluating a Multiclass Classifier](../notebooks/chapter_09_text_processing_and_multiclass_classification.ipynb#exercise-3-building-and-evaluating-a-multiclass-classifier) |
+
+## Chapter 10: Clustering Techniques
+
+| Materi buku | Halaman cetak | Pembahasan notebook |
+| --- | --- | --- |
+| Introduction to Clustering | 254 | [Introduction to Clustering](../notebooks/chapter_10_clustering_techniques.ipynb#introduction-to-clustering) |
+| K-Means Clustering | 256 | [K-Means Clustering](../notebooks/chapter_10_clustering_techniques.ipynb#k-means-clustering) |
+| Hierarchical Clustering | 260 | [Hierarchical Clustering](../notebooks/chapter_10_clustering_techniques.ipynb#hierarchical-clustering) |
+| Density-Based Clustering with DBSCAN | 264 | [Density-Based Clustering with DBSCAN](../notebooks/chapter_10_clustering_techniques.ipynb#density-based-clustering-with-dbscan) |
+| Cluster Evaluation Metrics | 268 | [Cluster Evaluation Metrics](../notebooks/chapter_10_clustering_techniques.ipynb#cluster-evaluation-metrics) |
+| Choosing the Right Clustering Algorithm | 270 | [Choosing the Right Clustering Algorithm](../notebooks/chapter_10_clustering_techniques.ipynb#choosing-the-right-clustering-algorithm) |
+| Advanced Clustering Techniques | 274 | [Advanced Clustering Techniques](../notebooks/chapter_10_clustering_techniques.ipynb#advanced-clustering-techniques) |
+| Practical Exercises with Clustering Models | 277 | [Practical Exercises with Clustering Models](../notebooks/chapter_10_clustering_techniques.ipynb#practical-exercises-with-clustering-models) |
+
+## Chapter 11: Novelty and Outlier Detection
+
+| Materi buku | Halaman cetak | Pembahasan notebook |
+| --- | --- | --- |
+| Introduction to Outlier and Novelty Detection | 280 | [Introduction to Outlier and Novelty Detection](../notebooks/chapter_11_novelty_and_outlier_detection.ipynb#introduction-to-outlier-and-novelty-detection) |
+| Understanding Isolation Forest | 284 | [Understanding Isolation Forest](../notebooks/chapter_11_novelty_and_outlier_detection.ipynb#understanding-isolation-forest) |
+| One-Class SVM for Novelty Detection | 289 | [One-Class SVM for Novelty Detection](../notebooks/chapter_11_novelty_and_outlier_detection.ipynb#one-class-svm-for-novelty-detection) |
+| Detecting Outliers with LOF | 294 | [Detecting Outliers with LOF](../notebooks/chapter_11_novelty_and_outlier_detection.ipynb#detecting-outliers-with-lof) |
+| Evaluating Outlier Detection Models | 298 | [Evaluating Outlier Detection Models](../notebooks/chapter_11_novelty_and_outlier_detection.ipynb#evaluating-outlier-detection-models) |
+| Handling Detected Outliers | 303 | [Handling Detected Outliers](../notebooks/chapter_11_novelty_and_outlier_detection.ipynb#handling-detected-outliers) |
+| Choosing the Right Detection Technique | 306 | [Choosing the Right Detection Technique](../notebooks/chapter_11_novelty_and_outlier_detection.ipynb#choosing-the-right-detection-technique) |
+| Practical Exercises in Novelty and Outlier Detection | 309 | [Practical Exercises in Novelty and Outlier Detection](../notebooks/chapter_11_novelty_and_outlier_detection.ipynb#practical-exercises-in-novelty-and-outlier-detection) |
+
+## Chapter 12: Cross-Validation and Model Evaluation Techniques
+
+| Materi buku | Halaman cetak | Pembahasan notebook |
+| --- | --- | --- |
+| Introduction to Cross-Validation | 314 | [Introduction to Cross-Validation](../notebooks/chapter_12_cross_validation_and_model_evaluation_techniques.ipynb#introduction-to-cross-validation) |
+| Advanced Cross-Validation Methods | 316 | [Advanced Cross-Validation Methods](../notebooks/chapter_12_cross_validation_and_model_evaluation_techniques.ipynb#advanced-cross-validation-methods) |
+| Implementing Cross-Validation in scikit-learn | 319 | [Implementing Cross-Validation in scikit-learn](../notebooks/chapter_12_cross_validation_and_model_evaluation_techniques.ipynb#implementing-cross-validation-in-scikit-learn) |
+| Model Selection Techniques | 321 | [Model Selection Techniques](../notebooks/chapter_12_cross_validation_and_model_evaluation_techniques.ipynb#model-selection-techniques) |
+| Evaluating Model Generalizability | 324 | [Evaluating Model Generalizability](../notebooks/chapter_12_cross_validation_and_model_evaluation_techniques.ipynb#evaluating-model-generalizability) |
+| Practical Exercises in Cross-Validation and Evaluation | 328 | [Practical Exercises in Cross-Validation and Evaluation](../notebooks/chapter_12_cross_validation_and_model_evaluation_techniques.ipynb#practical-exercises-in-cross-validation-and-evaluation) |
+
+## Chapter 13: Deploying scikit-learn Models in Production
+
+| Materi buku | Halaman cetak | Pembahasan notebook |
+| --- | --- | --- |
+| Overview of Model Deployment | 332 | [Overview of Model Deployment](../notebooks/chapter_13_deploying_scikit_learn_models_in_production.ipynb#overview-of-model-deployment) |
+| Serialization and Persistence Techniques | 334 | [Serialization and Persistence Techniques](../notebooks/chapter_13_deploying_scikit_learn_models_in_production.ipynb#serialization-and-persistence-techniques) |
+| Scaling Models for Production | 336 | [Scaling Models for Production](../notebooks/chapter_13_deploying_scikit_learn_models_in_production.ipynb#scaling-models-for-production) |
+| Monitoring and Updating Deployed Models | 338 | [Monitoring and Updating Deployed Models](../notebooks/chapter_13_deploying_scikit_learn_models_in_production.ipynb#monitoring-and-updating-deployed-models) |
+| Managing the Model Life Cycle | 341 | [Managing the Model Life Cycle](../notebooks/chapter_13_deploying_scikit_learn_models_in_production.ipynb#managing-the-model-life-cycle) |
+| Setting Up Deployment Pipelines | 343 | [Setting Up Deployment Pipelines](../notebooks/chapter_13_deploying_scikit_learn_models_in_production.ipynb#setting-up-deployment-pipelines) |
+| Practical Exercises in Model Deployment | 345 | [Practical Exercises in Model Deployment](../notebooks/chapter_13_deploying_scikit_learn_models_in_production.ipynb#practical-exercises-in-model-deployment) |
+
 ## Asal Kode
 
-Chapter 1 mereproduksi contoh pada buku halaman 1–12 karena repo penerbit tidak menyediakan notebook bab tersebut. Chapter 2–8 mengadaptasi seluruh sel kode utama dan exercise solutions dari repo penerbit. Pemetaan tiap sel terdapat pada [CODE_SOURCES.json](CODE_SOURCES.json); metadata sel menyimpan source_path dan source_cell_index. Bagian konseptual tanpa contoh kode tetap dijelaskan.
+Chapter 1 mereproduksi contoh pada buku halaman 1–12 karena repo penerbit tidak menyediakan notebook bab tersebut. Chapter 2–13 mengadaptasi seluruh sel kode utama dan exercise solutions dari repo penerbit. Pemetaan tiap sel terdapat pada [CODE_SOURCES.json](CODE_SOURCES.json); metadata sel menyimpan source_path dan source_cell_index. Bagian konseptual tanpa contoh kode tetap dijelaskan.
 
-Lingkup pengumpulan dengan deadline yang dinyatakan pada dokumen tugas adalah Chapter 1–5 dan Chapter 6–8. Buku mempunyai Chapter 9–13; bab tersebut belum termasuk notebook pada repo ini.
+Lingkup pengumpulan dengan deadline yang dinyatakan pada dokumen tugas adalah Chapter 1–5 dan Chapter 6–8. Chapter 9–13 juga dilengkapi untuk mempelajari seluruh isi buku; dokumen tidak mencantumkan deadline khusus bab tambahan tersebut.
+
+Chapter 9–13 juga memuat tiga latihan akhir per bab. Latihan awal teks (250), clustering (277–278), anomali (309–310), evaluasi (329), dan deployment (346) diselesaikan dalam bagian Practical Exercises. Penjelasan bagian konseptual tetap diberikan meskipun tidak membutuhkan kode tambahan.

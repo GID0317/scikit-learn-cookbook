@@ -816,6 +816,670 @@
       "source_cell_index": 5,
       "original_main_cell_index": 34,
       "exercise": true
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 5,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 7,
+      "original_main_cell_index": 7,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 9,
+      "original_main_cell_index": 9,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 11,
+      "original_main_cell_index": 11,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 13,
+      "original_main_cell_index": 13,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 15,
+      "original_main_cell_index": 15,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 17,
+      "original_main_cell_index": 17,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 19,
+      "original_main_cell_index": 19,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 21,
+      "original_main_cell_index": 21,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 23,
+      "original_main_cell_index": 23,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 25,
+      "original_main_cell_index": 25,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 27,
+      "original_main_cell_index": 27,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 30,
+      "original_main_cell_index": 30,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification.ipynb",
+      "source_cell_index": 32,
+      "original_main_cell_index": 32,
+      "exercise": false
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification (Exercise Solutions).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 35,
+      "exercise": true
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification (Exercise Solutions).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 37,
+      "exercise": true
+    },
+    {
+      "chapter": 9,
+      "notebook": "chapter_09_text_processing_and_multiclass_classification.ipynb",
+      "source_path": "Chapter_9/Chapter 9 Text Processing and Multiclass Classification (Exercise Solutions).ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 39,
+      "exercise": true
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 6,
+      "original_main_cell_index": 6,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 8,
+      "original_main_cell_index": 8,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 10,
+      "original_main_cell_index": 10,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 12,
+      "original_main_cell_index": 12,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 14,
+      "original_main_cell_index": 14,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 17,
+      "original_main_cell_index": 17,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 19,
+      "original_main_cell_index": 19,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 21,
+      "original_main_cell_index": 21,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 23,
+      "original_main_cell_index": 23,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 25,
+      "original_main_cell_index": 25,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 28,
+      "original_main_cell_index": 28,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 30,
+      "original_main_cell_index": 30,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 33,
+      "original_main_cell_index": 33,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques.ipynb",
+      "source_cell_index": 35,
+      "original_main_cell_index": 35,
+      "exercise": false
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques (Exercise Solutions).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 37,
+      "exercise": true
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques (Exercise Solutions).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 39,
+      "exercise": true
+    },
+    {
+      "chapter": 10,
+      "notebook": "chapter_10_clustering_techniques.ipynb",
+      "source_path": "Chapter_10/Chapter 10 Clustering Techniques (Exercise Solutions).ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 41,
+      "exercise": true
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 5,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 7,
+      "original_main_cell_index": 7,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 9,
+      "original_main_cell_index": 9,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 11,
+      "original_main_cell_index": 11,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 13,
+      "original_main_cell_index": 13,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 15,
+      "original_main_cell_index": 15,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 17,
+      "original_main_cell_index": 17,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 19,
+      "original_main_cell_index": 19,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 21,
+      "original_main_cell_index": 21,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 23,
+      "original_main_cell_index": 23,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 25,
+      "original_main_cell_index": 25,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection.ipynb",
+      "source_cell_index": 27,
+      "original_main_cell_index": 27,
+      "exercise": false
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection (Exercise Solutions).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 30,
+      "exercise": true
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection (Exercise Solutions).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 32,
+      "exercise": true
+    },
+    {
+      "chapter": 11,
+      "notebook": "chapter_11_novelty_and_outlier_detection.ipynb",
+      "source_path": "Chapter_11/Chapter 11 Outlier and Novelty Detection (Exercise Solutions).ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 34,
+      "exercise": true
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 5,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 7,
+      "original_main_cell_index": 7,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 10,
+      "original_main_cell_index": 10,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 12,
+      "original_main_cell_index": 12,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 14,
+      "original_main_cell_index": 14,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 16,
+      "original_main_cell_index": 16,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 18,
+      "original_main_cell_index": 18,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques.ipynb",
+      "source_cell_index": 20,
+      "original_main_cell_index": 20,
+      "exercise": false
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques (Exercise Solutions).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 22,
+      "exercise": true
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques (Exercise Solutions).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 24,
+      "exercise": true
+    },
+    {
+      "chapter": 12,
+      "notebook": "chapter_12_cross_validation_and_model_evaluation_techniques.ipynb",
+      "source_path": "Chapter_12/Chapter 12 Cross-Validation and Model Evaluation Techniques (Exercise Solutions).ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 26,
+      "exercise": true
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 5,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 7,
+      "original_main_cell_index": 7,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 9,
+      "original_main_cell_index": 9,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 11,
+      "original_main_cell_index": 11,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 13,
+      "original_main_cell_index": 13,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 15,
+      "original_main_cell_index": 15,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 17,
+      "original_main_cell_index": 17,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 19,
+      "original_main_cell_index": 19,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 21,
+      "original_main_cell_index": 21,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production.ipynb",
+      "source_cell_index": 23,
+      "original_main_cell_index": 23,
+      "exercise": false
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production (Exercise Solutions).ipynb",
+      "source_cell_index": 25,
+      "original_main_cell_index": 26,
+      "exercise": true
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production (Exercise Solutions).ipynb",
+      "source_cell_index": 27,
+      "original_main_cell_index": 28,
+      "exercise": true
+    },
+    {
+      "chapter": 13,
+      "notebook": "chapter_13_deploying_scikit_learn_models_in_production.ipynb",
+      "source_path": "Chapter_13/Chapter 13 Deploying scikit-learn Models in Production (Exercise Solutions).ipynb",
+      "source_cell_index": 29,
+      "original_main_cell_index": 30,
+      "exercise": true
     }
   ]
 }

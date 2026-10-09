@@ -18,7 +18,7 @@ def main():
     if sys.platform == 'win32':
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     parser = argparse.ArgumentParser()
-    parser.add_argument('--chapter', type=int, nargs='+', choices=range(1, 9))
+    parser.add_argument('--chapter', type=int, nargs='+', choices=range(1, 14))
     args = parser.parse_args()
     manifest = json.loads((ROOT / 'data/SOURCES.json').read_text(encoding='utf-8'))
     dataset = ROOT / 'data' / manifest['filename']
@@ -35,7 +35,16 @@ def main():
     os.environ['OMP_NUM_THREADS'] = '1'
     os.environ['OPENBLAS_NUM_THREADS'] = '1'
     os.environ['MKL_NUM_THREADS'] = '1'
-    chapters = args.chapter or list(range(1, 9))
+    chapters = args.chapter or list(range(1, 14))
+    if 9 in chapters:
+        from prepare_text_data import DEST
+        text_manifest = json.loads((ROOT / 'data/TEXT_SOURCES.json').read_text(encoding='utf-8'))
+        for item in text_manifest['packages']:
+            archive = DEST / item['path']
+            if not archive.exists():
+                raise FileNotFoundError('Run scripts/prepare_text_data.py before Chapter 9')
+            if hashlib.sha256(archive.read_bytes()).hexdigest() != item['sha256']:
+                raise ValueError(f"NLTK checksum mismatch: {item['name']}")
     report = []
     with tempfile.TemporaryDirectory(dir=runtime) as kernel_dir:
         spec_dir = Path(kernel_dir) / 'kernels/assignment'

@@ -1,6 +1,6 @@
 # Laporan Validasi
 
-Pemeriksaan pada 9 Oktober 2026 memakai Python 3.12.14 dan scikit-learn 1.5.2. Setiap notebook dijalankan dari kernel baru menggunakan dependency pada requirements.txt. Angka pada ringkasan diambil dari output notebook yang sama.
+Pemeriksaan pada 9 Oktober 2026 memakai Python 3.12.14, scikit-learn 1.5.2, dan NLTK 3.9.2. Chapter 1–8 sudah dieksekusi dari kernel baru pada pemeriksaan sebelumnya; Chapter 9–13 dieksekusi dari kernel baru pada pelengkapan ini. Ringkasan numerik berasal dari output notebook masing-masing.
 
 | Chapter | Sel kode | Grafik PNG | Output error | Peringatan dalam notebook |
 | --- | --- | --- | --- | --- |
@@ -12,27 +12,29 @@ Pemeriksaan pada 9 Oktober 2026 memakai Python 3.12.14 dan scikit-learn 1.5.2. S
 | 6 | 18 | 7 | 0 | 0 |
 | 7 | 23 | 7 | 0 | 0 |
 | 8 | 19 | 4 | 0 | 0 |
+| 9 | 21 | 5 | 0 | 0 |
+| 10 | 21 | 12 | 0 | 1 |
+| 11 | 20 | 13 | 0 | 0 |
+| 12 | 16 | 4 | 0 | 0 |
+| 13 | 17 | 2 | 0 | 0 |
 
-Total **126 sel kode** dan **38 grafik** tersimpan, tanpa error notebook.
+Total **221 sel kode** dan **74 grafik** tersimpan, tanpa output error. Chapter 10 memuat satu peringatan graf spectral embedding tidak sepenuhnya terhubung; penyebab dan batas interpretasinya dijelaskan di notebook. Peringatan tersebut tidak disembunyikan.
 
 ## Pemeriksaan yang Dilakukan
 
-- Checksum California Housing sama dengan manifest sumber.
-- Notebook lolos schema nbformat; semua sel kode memiliki execution_count dan tidak memuat output error.
-- Sintaks seluruh sel kode valid; placeholder sumber YOUR CODE HERE telah diganti implementasi selesai.
-- Daftar isi serta tautan cakupan materi mengarah ke heading notebook yang tersedia.
-- Contoh regresi Chapter 1 cocok dengan prediksi 5,75 dan 6,70; scaling dan custom transformer memenuhi pemeriksaan mean.
-- Imputasi menghasilkan nilai finite; scaling memenuhi pemeriksaan mean; indeks California training/test terpisah.
-- Bentuk proyeksi PCA/LDA/t-SNE sesuai dataset, varians PCA berada pada rentang 0–1, dan preprocessing evaluasi Digits belajar dari training.
-- Confusion matrix KNN mempunyai jumlah sampel yang benar; scaler berada di pipeline tuning.
-- Derajat polynomial dipilih pada CV training; prediksi test mempunyai jumlah baris yang benar.
-- Bentuk prediksi multilabel sesuai target; probabilitas multinomial berjumlah satu per baris.
-- Contoh target kontinu SVR menghasilkan RMSE finite dan nonnegatif; evaluasi SVM menggunakan pipeline scaling.
-- Feature importance forest berjumlah satu; accuracy ensemble berada pada rentang 0–1.
-- Sampel grafik PCA/t-SNE, learning curve, confusion matrix, polynomial/residual, logistic regression, SVM, dan tree diperiksa secara visual.
+- SHA-256 California Housing dan enam resource NLTK sesuai manifest; unduhan NLTK dipin ke commit sumber.
+- Semua notebook lolos schema nbformat; seluruh sel kode memiliki execution_count, sintaks valid, dan tidak mempunyai output error.
+- Semua latihan akhir memiliki implementasi; placeholder sumber telah diganti. Tautan README, daftar isi notebook, dan cakupan materi diperiksa.
+- Pemeriksaan Chapter 1–8 mencakup hasil regresi, imputasi, scaling, bentuk proyeksi/prediksi, pemisahan training/test, probabilitas kelas, confusion matrix, serta feature importance.
+- Chapter 9 memastikan bentuk vocabulary training/test konsisten, semua kelas latihan tersedia pada kedua bagian, indeks terpisah, dan confusion matrix menjumlah seluruh 1.000 review test.
+- Chapter 10 memeriksa rentang metrik, variance PCA, probabilitas GMM yang berjumlah satu, serta jumlah cluster/noise.
+- Chapter 11 memakai skor anomali dengan arah benar untuk AUC, membedakan evaluasi training dari novelty holdout, serta memeriksa recall dan false-positive rate. LOF novelty hanya menerima data baru.
+- Chapter 12 memakai pipeline dalam CV; split group tidak berbagi identitas dan split waktu menjaga training mendahului validation. Kurva latihan memakai training saja.
+- Chapter 13 membandingkan prediksi sebelum/sesudah serialization, memakai versi runtime aktual, menyimpan snapshot validation terpisah, dan mencatat keputusan gate beserta skor serta threshold. Stream dievaluasi sebelum update.
+- Sampel grafik Chapter 1–8 telah diperiksa sebelumnya. Sampel tambahan teks, clustering, anomali, kurva CV, dan monitoring deployment diperiksa secara visual pada pelengkapan ini.
 
 ## Batas Validasi
 
-Assertion memeriksa konsistensi yang dinyatakan dalam kode, bukan seluruh asumsi statistik. Skor holdout acak tidak menjamin generalisasi pada transaksi masa depan, wilayah baru, atau populasi berbeda. Proyeksi eksploratif pada seluruh data tidak dipakai sebagai preprocessing untuk evaluasi test. Perbandingan model pada satu split dipakai untuk pembelajaran, bukan klaim optimum global.
+Assertion memeriksa konsistensi yang dinyatakan dalam kode, bukan seluruh asumsi statistik. Skor satu holdout acak tidak menjamin generalisasi ke wilayah, waktu, atau domain berbeda. Metric anomaly pada dataset tercemar training adalah evaluasi deskriptif dan tidak disebut test independen. Nomor cluster tidak identik dengan label kelas.
 
-Ringkasan teknis ini tidak mengklaim seluruh gambar telah diperiksa satu per satu atau bahwa model siap deployment. Untuk penggunaan nyata diperlukan desain evaluasi sesuai tujuan, pemeriksaan bias data, dan monitoring perubahan distribusi.
+Notebook Chapter 13 mensimulasikan lifecycle lokal. Tidak ada service internet, registri produksi, atau SLA yang diuji. Seluruh grafik tidak diklaim diperiksa satu per satu; pemeriksaan visual memakai sampel. Eksekusi ulang membutuhkan dependency yang dipin dan persiapan resource NLTK sekali melalui internet.
