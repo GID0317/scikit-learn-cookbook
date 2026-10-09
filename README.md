@@ -16,7 +16,7 @@ Reproduksi kode, penjelasan teori, dan pembahasan hasil Chapter 1–8 buku **sci
 Setiap bab mempunyai satu notebook yang memuat kode, teori dalam bahasa Indonesia, output eksekusi, latihan yang sudah diselesaikan, dan ringkasan hasil. Cakupan mengikuti dua tahap yang memiliki deadline pada dokumen tugas:
 
 | Tahap | Cakupan | Deadline |
-| --- | --- |
+| --- | --- | --- |
 | 1 | Chapter 1–5 | 10 Oktober 2026, 23.59 |
 | 2 | Chapter 6–8 | 17 Oktober 2026, 23.59 |
 
