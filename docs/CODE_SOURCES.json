@@ -1,0 +1,821 @@
+{
+  "repository": "https://github.com/PacktPublishing/scikit-learn-Cookbook-Third-Edition",
+  "commit": "c624b1279cf23a83273e806cede15cad0c9e5500",
+  "book": {
+    "author": "John Sukup",
+    "edition": 3,
+    "year": 2025,
+    "isbn": "9781836644453"
+  },
+  "chapter_1": "Contoh halaman cetak 1-12; tambahan konseptual ditandai dalam pembahasan.",
+  "cells": [
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 2,
+      "original_main_cell_index": 2,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 4,
+      "original_main_cell_index": 4,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 6,
+      "original_main_cell_index": 6,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 8,
+      "original_main_cell_index": 8,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 11,
+      "original_main_cell_index": 11,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 13,
+      "original_main_cell_index": 13,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 15,
+      "original_main_cell_index": 15,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 17,
+      "original_main_cell_index": 17,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 19,
+      "original_main_cell_index": 19,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 21,
+      "original_main_cell_index": 21,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 23,
+      "original_main_cell_index": 23,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 26,
+      "original_main_cell_index": 26,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 28,
+      "original_main_cell_index": 28,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 31,
+      "original_main_cell_index": 31,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 33,
+      "original_main_cell_index": 33,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 35,
+      "original_main_cell_index": 35,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing.ipynb",
+      "source_cell_index": 37,
+      "original_main_cell_index": 37,
+      "exercise": false
+    },
+    {
+      "chapter": 2,
+      "notebook": "chapter_02_pre_model_workflow_and_data_preprocessing.ipynb",
+      "source_path": "Chapter_2/Chapter 2 Pre Model Workflow and Data Preprocessing (Exercise Solution).ipynb",
+      "source_cell_index": 2,
+      "original_main_cell_index": 40,
+      "exercise": true
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques.ipynb",
+      "source_cell_index": 2,
+      "original_main_cell_index": 2,
+      "exercise": false
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques.ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 5,
+      "exercise": false
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques.ipynb",
+      "source_cell_index": 7,
+      "original_main_cell_index": 7,
+      "exercise": false
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques.ipynb",
+      "source_cell_index": 9,
+      "original_main_cell_index": 9,
+      "exercise": false
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques.ipynb",
+      "source_cell_index": 13,
+      "original_main_cell_index": 13,
+      "exercise": false
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques.ipynb",
+      "source_cell_index": 15,
+      "original_main_cell_index": 15,
+      "exercise": false
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques.ipynb",
+      "source_cell_index": 18,
+      "original_main_cell_index": 18,
+      "exercise": false
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques.ipynb",
+      "source_cell_index": 20,
+      "original_main_cell_index": 20,
+      "exercise": false
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques (Exercise Solution).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 23,
+      "exercise": true
+    },
+    {
+      "chapter": 3,
+      "notebook": "chapter_03_dimensionality_reduction_techniques.ipynb",
+      "source_path": "Chapter_3/Chapter 3 Dimensionality Reduction Techniques (Exercise Solution).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 25,
+      "exercise": true
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors.ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 5,
+      "exercise": false
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors.ipynb",
+      "source_cell_index": 7,
+      "original_main_cell_index": 7,
+      "exercise": false
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors.ipynb",
+      "source_cell_index": 9,
+      "original_main_cell_index": 9,
+      "exercise": false
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors.ipynb",
+      "source_cell_index": 11,
+      "original_main_cell_index": 11,
+      "exercise": false
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors.ipynb",
+      "source_cell_index": 13,
+      "original_main_cell_index": 13,
+      "exercise": false
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors (Exercise Solution).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 15,
+      "exercise": true
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors (Exercise Solution).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 17,
+      "exercise": true
+    },
+    {
+      "chapter": 4,
+      "notebook": "chapter_04_building_models_with_distance_metrics_and_nearest_neighbors.ipynb",
+      "source_path": "Chapter_4/Chapter 4 Building Models with Distance Metrics and Nearest Neighbors (Exercise Solution).ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 19,
+      "exercise": true
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization.ipynb",
+      "source_cell_index": 6,
+      "original_main_cell_index": 6,
+      "exercise": false
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization.ipynb",
+      "source_cell_index": 8,
+      "original_main_cell_index": 8,
+      "exercise": false
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization.ipynb",
+      "source_cell_index": 10,
+      "original_main_cell_index": 10,
+      "exercise": false
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization.ipynb",
+      "source_cell_index": 12,
+      "original_main_cell_index": 12,
+      "exercise": false
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization.ipynb",
+      "source_cell_index": 14,
+      "original_main_cell_index": 14,
+      "exercise": false
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization (Exercise Solution).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 16,
+      "exercise": true
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization (Exercise Solution).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 18,
+      "exercise": true
+    },
+    {
+      "chapter": 5,
+      "notebook": "chapter_05_linear_models_and_regularization.ipynb",
+      "source_path": "Chapter_5/Chapter 5 Linear Models and Regularization (Exercise Solution).ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 20,
+      "exercise": true
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 5,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 7,
+      "original_main_cell_index": 7,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 8,
+      "original_main_cell_index": 8,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 11,
+      "original_main_cell_index": 11,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 13,
+      "original_main_cell_index": 13,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 14,
+      "original_main_cell_index": 14,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 17,
+      "original_main_cell_index": 17,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 19,
+      "original_main_cell_index": 19,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 20,
+      "original_main_cell_index": 20,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 23,
+      "original_main_cell_index": 23,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions.ipynb",
+      "source_cell_index": 25,
+      "original_main_cell_index": 25,
+      "exercise": false
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions (Exercise Solutions).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 27,
+      "exercise": true
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions (Exercise Solutions).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 29,
+      "exercise": true
+    },
+    {
+      "chapter": 6,
+      "notebook": "chapter_06_advanced_logistic_regression_and_extensions.ipynb",
+      "source_path": "Chapter_6/Chapter 6 Advanced Logistic Regression and Extensions (Exercise Solutions).ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 31,
+      "exercise": true
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 5,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 7,
+      "original_main_cell_index": 7,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 9,
+      "original_main_cell_index": 9,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 11,
+      "original_main_cell_index": 11,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 13,
+      "original_main_cell_index": 13,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 15,
+      "original_main_cell_index": 15,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 17,
+      "original_main_cell_index": 17,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 19,
+      "original_main_cell_index": 19,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 21,
+      "original_main_cell_index": 21,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 23,
+      "original_main_cell_index": 23,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 25,
+      "original_main_cell_index": 25,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 27,
+      "original_main_cell_index": 27,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 29,
+      "original_main_cell_index": 29,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 31,
+      "original_main_cell_index": 31,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods.ipynb",
+      "source_cell_index": 32,
+      "original_main_cell_index": 32,
+      "exercise": false
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods (Exercise Solutions).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 35,
+      "exercise": true
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods (Exercise Solutions).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 37,
+      "exercise": true
+    },
+    {
+      "chapter": 7,
+      "notebook": "chapter_07_support_vector_machines_and_kernel_methods.ipynb",
+      "source_path": "Chapter_7/Chapter 7 Support Vector Machines and Kernel Methods (Exercise Solutions).ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 39,
+      "exercise": true
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 1,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 3,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 5,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 7,
+      "original_main_cell_index": 7,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 9,
+      "original_main_cell_index": 9,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 11,
+      "original_main_cell_index": 11,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 13,
+      "original_main_cell_index": 13,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 15,
+      "original_main_cell_index": 15,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 18,
+      "original_main_cell_index": 18,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 20,
+      "original_main_cell_index": 20,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 22,
+      "original_main_cell_index": 22,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 24,
+      "original_main_cell_index": 24,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 26,
+      "original_main_cell_index": 26,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods.ipynb",
+      "source_cell_index": 28,
+      "original_main_cell_index": 28,
+      "exercise": false
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods (Exercise Solutions).ipynb",
+      "source_cell_index": 1,
+      "original_main_cell_index": 30,
+      "exercise": true
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods (Exercise Solutions).ipynb",
+      "source_cell_index": 3,
+      "original_main_cell_index": 32,
+      "exercise": true
+    },
+    {
+      "chapter": 8,
+      "notebook": "chapter_08_tree_based_algorithms_and_ensemble_methods.ipynb",
+      "source_path": "Chapter_8/Chapter 8 Tree-Based Algorithms and Ensemble Methods (Exercise Solutions).ipynb",
+      "source_cell_index": 5,
+      "original_main_cell_index": 34,
+      "exercise": true
+    }
+  ]
+}

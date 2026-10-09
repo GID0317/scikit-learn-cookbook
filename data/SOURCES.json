@@ -1,0 +1,20 @@
+{
+  "name": "California Housing",
+  "samples": 20640,
+  "features": [
+    "MedInc",
+    "HouseAge",
+    "AveRooms",
+    "AveBedrms",
+    "Population",
+    "AveOccup",
+    "Latitude",
+    "Longitude"
+  ],
+  "target_unit": "100000 USD",
+  "source": "https://scikit-learn.org/1.5/datasets/real_world.html#california-housing-dataset",
+  "original_source": "https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html",
+  "sha256": "fe1365dd593eddd516882159919a252dfa8237cb3bf90a709ff5a5ccf6fd6364",
+  "filename": "california_housing.npz",
+  "notes": "Dataset agregat blok sensus California 1990; dibundel supaya eksekusi tidak membutuhkan unduhan."
+}
